@@ -1,0 +1,52 @@
+.searchCard{
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    border: 1px solid black;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    .cardImageContainer img{
+        width: 100%;
+        height: 100%;
+    }
+    .cardDetailContainer{
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+        .item-title{
+            font-weight: 800;
+            font-size: 22px;
+        }
+        .item-detail{
+            p{
+                word-break:break-all
+            }
+            a{
+                text-decoration: none;
+                color: cornflowerblue;
+            }
+            .readMoreBtn{
+                background: none;
+                border: none;
+                border: 2px solid crimson;
+                color: crimson;
+                background: transparent;
+                min-height: 25px;
+                padding: 5px;
+            }
+        }
+    }
+}
+@media (max-width:800px){
+    .searchCard{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr ;
+        align-content: space-around;
+        min-width: 450px;
+        
+        .cardDetailContainer{
+            padding-left: 0;
+            justify-content: center;
+        }
+    }
+}

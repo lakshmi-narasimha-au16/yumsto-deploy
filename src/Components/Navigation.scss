@@ -1,0 +1,32 @@
+.navbarContainer{
+    display: flex;
+    background-color: cornflowerblue;
+    color: white;
+    height: 80px;
+    justify-content: space-around;
+    align-items: center;
+    .logo{
+        a{
+            text-decoration: none;
+            color: white;
+        }
+        a:hover{
+            color: purple;
+        }
+    }
+    .navLinks ul{
+        list-style: none;
+        display: flex;
+        li{
+            padding-right: 20px;
+            a{
+                text-decoration: none;
+                color: white;
+            }
+            a:hover{
+                color: purple;
+            }
+        }
+    }
+    
+}
