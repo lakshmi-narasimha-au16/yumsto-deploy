@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yumsto-deploy/static/css/main.8c0c85a1.chunk.css",
+    "main.js": "/yumsto-deploy/static/js/main.fc52382d.chunk.js",
+    "main.js.map": "/yumsto-deploy/static/js/main.fc52382d.chunk.js.map",
+    "runtime-main.js": "/yumsto-deploy/static/js/runtime-main.c1f4bad2.js",
+    "runtime-main.js.map": "/yumsto-deploy/static/js/runtime-main.c1f4bad2.js.map",
+    "static/js/2.972ac8c4.chunk.js": "/yumsto-deploy/static/js/2.972ac8c4.chunk.js",
+    "static/js/2.972ac8c4.chunk.js.map": "/yumsto-deploy/static/js/2.972ac8c4.chunk.js.map",
+    "index.html": "/yumsto-deploy/index.html",
+    "static/css/main.8c0c85a1.chunk.css.map": "/yumsto-deploy/static/css/main.8c0c85a1.chunk.css.map",
+    "static/js/2.972ac8c4.chunk.js.LICENSE.txt": "/yumsto-deploy/static/js/2.972ac8c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f4bad2.js",
+    "static/js/2.972ac8c4.chunk.js",
+    "static/css/main.8c0c85a1.chunk.css",
+    "static/js/main.fc52382d.chunk.js"
+  ]
+}
