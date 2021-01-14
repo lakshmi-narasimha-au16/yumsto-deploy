@@ -2,7 +2,7 @@
   "name": "yumsto",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://lakshmi-narasimha-au9.github.io/yumsto-deploy",
+  "homepage":"https://lakshmi-narasimha-au9.github.io/yumsto-deploy",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
