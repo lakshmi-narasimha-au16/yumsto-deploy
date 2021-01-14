@@ -8,7 +8,7 @@ import Home from './Home'
 
 const Routes= ()=>{
     return(
-        <BrowserRouter>
+        <BrowserRouter >
             <Route path={'/'} exact component={Home} />
             <Route path={'/login'} exact component={LoginPage} />
             <Route path={'/addmeal'} exact component={AddingMeal} />
